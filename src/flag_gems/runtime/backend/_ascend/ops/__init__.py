@@ -15,6 +15,7 @@
 from ._dyn_quant_matmul_4bit import _dyn_quant_matmul_4bit
 from .absolute_ import absolute_
 from .acos_ import acos_
+from .copy import copy, copy_
 from .acosh import acosh
 from .acosh_ import acosh_
 from .adaptive_avg_pool2d import adaptive_avg_pool2d
